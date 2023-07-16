@@ -1,6 +1,6 @@
 name: Skulls
 load: POSTWORLD
-version: 1.0
+version: 0.1
 author: ByAlexius
 main: net.byalexius.skulls.Skulls
 api-version: 1.20
