@@ -1,9 +1,9 @@
 enabled: true
 
 drop:
-  # When an entity is killed by a player should the head be dropped?
+  # When a player kills an entity should the head be dropped?
   entity: true
-  # When a player is killed by a player should the head be dropped?
+  # When a player kills a player should the head be dropped?
   player: true
   # Should the /Skull command be enabled?
   command: true
